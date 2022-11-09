@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{B1E792BE-AA5F-4E3C-8C82-674BF9C0715B}") = "TwinCAT Project1", "TwinCAT Project1\TwinCAT Project1.tsproj", "{C33A95C8-1847-47D3-A329-732B672C576F}"
+Project("{B1E792BE-AA5F-4E3C-8C82-674BF9C0715B}") = "TwinCAT libraryProj", "TwinCAT Project1\TwinCAT libraryProj.tsproj", "{C33A95C8-1847-47D3-A329-732B672C576F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
